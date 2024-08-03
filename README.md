@@ -1,1 +1,1 @@
-# Optimizing-Wine-Quality-Prediction-Model-Fitting-and-Cross-Validation-Technique
+# Optimizing-Wine-Quality-Prediction
